@@ -12,3 +12,10 @@ In the end, our message is simple and radical, and in the words of Jonelle Villa
 
 > My message for the people attending the useR!2021 virtual conference: Diversity is our super-power! I have no doubt that the next cake to be prepared for the next R-Consortium anniversary will have plates and forks for all. 
 
+### Resources
+
++ Welcome presentation made by Sara Mortara [here](https://saramortara.gitlab.io/rladies_user/#1). 
++ Beatriz Milz's presentation [here](https://beatrizmilz.github.io/slidesR/R-Ladies_and_useR_meetup/) and key points [here](https://github.com/rladies-eastlansing/2021-rladies_user/blob/main/speeches/beatriz_milz.md)
++ Jonelle Villar's speech [here](https://github.com/rladies-eastlansing/2021-rladies_user/blob/main/speeches/jonelle_villar.md)
++ Adithi Upadahya speech [here](https://github.com/rladies-eastlansing/2021-rladies_user/blob/main/speeches/adithi_upadhya.md)
+
